@@ -1,3 +1,3 @@
-# Side projects for Learning coding
+# Side projects for coding
 
 
